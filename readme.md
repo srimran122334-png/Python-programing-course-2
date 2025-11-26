@@ -1,10 +1,98 @@
-# Class - 13
+# Class 10
+## Pattern Printing
+```
+Pattern-1:
+*
+* *
+* * *
+* * * *
+* * * * *
 
-## Lambda, Map, Filter, Reduce
-- Map -> Higher order function -> কারণ এরা ফাংশনকে argument হিসেবে ইনপুট নেয়
-  - ম্যাপ একটা ফাংশন এবং একটা iterable নেয় -> argument
-  - ইহা একটা iterator return করে
-- Lambda
-  - আমরা চাইলে lambda ফাংশনকে কোন একটা variable এ রাখতে পারি
+Pattern-2:
+* * * * *
+* * * *
+* * *
+* *
+*
 
-## Why do we reinvent the Wheel
+Pattern-3:
+* * * * *
+*         *
+*         *
+*         *
+* * * * *
+
+Pattern-4:
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+
+Pattern-5:
+* * * * *
+ * * * *
+  * * *
+   * *
+    *
+
+Pattern-6:
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+
+Pattern-7:
+5 4 3 2 1
+5 4 3 2
+5 4 3
+5 4
+5
+
+Pattern-8:
+    *
+   ***
+  *****
+ *******
+*********
+
+Pattern-9:
+*********
+ *******
+  *****
+   ***
+    *
+
+Pattern-10:
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
+
+Pattern-11:
+* * * * * * * * *
+  * * * * * * *
+    * * * * *
+      * * *
+        *
+
+Pattern-12:
+        *
+      * * *
+    * * * * *
+  * * * * * * *
+* * * * * * * * *
+
+Pattern-13:
+A
+A B
+A B C
+A B C D
+A B C D E
+```
