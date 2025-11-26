@@ -1,98 +1,11 @@
-# Class 10
-## Pattern Printing
-```
-Pattern-1:
-*
-* *
-* * *
-* * * *
-* * * * *
+# Class 9
+## Range
+- Parameter
+  - start -> যে সংখ্যা থেকে শুরু করব
+  - stop -> যে সংখ্যার আগে শেষ করব
+  - step -> যত করে বৃদ্ধি করব
 
-Pattern-2:
-* * * * *
-* * * *
-* * *
-* *
-*
-
-Pattern-3:
-* * * * *
-*         *
-*         *
-*         *
-* * * * *
-
-Pattern-4:
-    *
-   * *
-  * * *
- * * * *
-* * * * *
-
-Pattern-5:
-* * * * *
- * * * *
-  * * *
-   * *
-    *
-
-Pattern-6:
-1
-1 2
-1 2 3
-1 2 3 4
-1 2 3 4 5
-
-Pattern-7:
-5 4 3 2 1
-5 4 3 2
-5 4 3
-5 4
-5
-
-Pattern-8:
-    *
-   ***
-  *****
- *******
-*********
-
-Pattern-9:
-*********
- *******
-  *****
-   ***
-    *
-
-Pattern-10:
-    *
-   ***
-  *****
- *******
-*********
- *******
-  *****
-   ***
-    *
-
-Pattern-11:
-* * * * * * * * *
-  * * * * * * *
-    * * * * *
-      * * *
-        *
-
-Pattern-12:
-        *
-      * * *
-    * * * * *
-  * * * * * * *
-* * * * * * * * *
-
-Pattern-13:
-A
-A B
-A B C
-A B C D
-A B C D E
-```
+## Password Cracker
+- Brute force attack -> combination
+- Username: admin
+- Password: abcd1234
