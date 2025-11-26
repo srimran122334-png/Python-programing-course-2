@@ -1,10 +1,10 @@
-# Class - 13
+# Class 12 - Revive
+## Function
+- Code block -> একটা কাজ করে -> কী কাজ করে?
+- একটাই কাজ করে -> আরে কী কাজ?
+- যে ফাংশন যে কাজের জন্য বানানো হয় সে ফাংশন শুধু সেই কাজটাই করে
+- input, output
+- DRY -> Don't Repeat Yourself
+- একই কোড বারবার লেখা থেকে রক্ষা পাওয়া যায়
 
-## Lambda, Map, Filter, Reduce
-- Map -> Higher order function -> কারণ এরা ফাংশনকে argument হিসেবে ইনপুট নেয়
-  - ম্যাপ একটা ফাংশন এবং একটা iterable নেয় -> argument
-  - ইহা একটা iterator return করে
-- Lambda
-  - আমরা চাইলে lambda ফাংশনকে কোন একটা variable এ রাখতে পারি
-
-## Why do we reinvent the Wheel
+## Variable Scope
